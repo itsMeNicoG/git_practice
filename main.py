@@ -29,5 +29,5 @@ print(str(resultado))
 resultado = multiplicacion(1, 2)
 print(str(resultado))
 
-resultado = division(1, 2)
+resultado = division(2, 4)
 print(str(resultado))
