@@ -1,2 +1,1 @@
-Hello Git and GitHub
-This is an update
+I guess this file should be useful in some way
