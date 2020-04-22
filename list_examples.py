@@ -24,3 +24,30 @@ def show_divisible_by(number):
 
 
 show_divisible_by(3)
+
+# select element from list
+name = names[0]
+print(name)
+
+name = names[1]
+print(name)
+
+name = names[2]
+print(name)
+# print len of a list
+
+name = names[-1]
+print(name)
+print(len(names))
+
+# slice
+name = names[0:3]
+print(name)
+
+# select from 0 element to 4
+name = names[:4]
+print(name)
+
+# select from 3 to last element
+name = names[3:]
+print(name)
