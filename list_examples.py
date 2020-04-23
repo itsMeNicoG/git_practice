@@ -51,3 +51,16 @@ print(name)
 # select from 3 to last element
 name = names[3:]
 print(name)
+
+# count number of times that something appears in list
+name = names.count('Snoop')
+print(name)
+
+# sort list, this doesn't return anything but modifies original list
+sorted_names = names
+names.sort()
+print(names)
+
+# sort list, returns sorted list and doesn't modify the original one
+sorted_names = sorted(names)
+print(sorted_names)
